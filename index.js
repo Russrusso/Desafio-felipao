@@ -1,4 +1,5 @@
 desafio
-console.log = "bom dia brasil"
+let nome = "felipe"
+console.log = "nome"
 
 
